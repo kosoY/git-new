@@ -1,0 +1,15 @@
+﻿Build started 27.09.2015 22:25:47.
+     1>Project "D:\Misha\Developing by myself\Pascal abc\Project6\Project6\Project6.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Misha\Проги\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\misha\developing by myself\pascal abc\project6\project6\source.cpp(51): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>d:\misha\developing by myself\pascal abc\project6\project6\source.cpp(52): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         D:\Misha\Проги\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Misha\Developing by myself\Pascal abc\Project6\Debug\Project6.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Misha\Developing by myself\Pascal abc\Project6\Debug\Project6.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Misha\Developing by myself\Pascal abc\Project6\Debug\Project6.lib" /MACHINE:X86 Debug\Source.obj
+         Project6.vcxproj -> D:\Misha\Developing by myself\Pascal abc\Project6\Debug\Project6.exe
+     1>Done Building Project "D:\Misha\Developing by myself\Pascal abc\Project6\Project6\Project6.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.47

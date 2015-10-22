@@ -1,0 +1,12 @@
+﻿Build started 03.10.2015 20:01:34.
+     1>Project "D:\Misha\Developing by myself\C++\Class1\Class1\Class1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Misha\Проги\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\misha\developing by myself\c++\class1\class1\source.cpp(35): error C3867: 'real1::gchys': function call missing argument list; use '&real1::gchys' to create a pointer to member
+     1>d:\misha\developing by myself\c++\class1\class1\source.cpp(36): error C3867: 'real1::gznam': function call missing argument list; use '&real1::gznam' to create a pointer to member
+     1>Done Building Project "D:\Misha\Developing by myself\C++\Class1\Class1\Class1.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.70

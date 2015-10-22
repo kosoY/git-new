@@ -1,0 +1,15 @@
+﻿Build started 10.10.2015 9:05:36.
+     1>Project "D:\Misha\Developing by myself\C++\LU\LU\LU.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Misha\Проги\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>d:\misha\developing by myself\c++\lu\lu\source.cpp(104): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>d:\misha\developing by myself\c++\lu\lu\source.cpp(112): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+       Link:
+         D:\Misha\Проги\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Misha\Developing by myself\C++\LU\Debug\LU.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Misha\Developing by myself\C++\LU\Debug\LU.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Misha\Developing by myself\C++\LU\Debug\LU.lib" /MACHINE:X86 Debug\Source.obj
+         LU.vcxproj -> D:\Misha\Developing by myself\C++\LU\Debug\LU.exe
+     1>Done Building Project "D:\Misha\Developing by myself\C++\LU\LU\LU.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.17
