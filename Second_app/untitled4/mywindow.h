@@ -27,7 +27,7 @@ private:
         QPushButton *mButStone;
         QPushButton *mButPaper;
         QPushButton *mButScis;
-public
+private
 slots:
        void ButStoneClicked();
        void ButPaperClicked();

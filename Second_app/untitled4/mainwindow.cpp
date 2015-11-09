@@ -40,7 +40,7 @@ void MyWindow::ButStoneClicked()
  if(abs(Generator()-0)==1)
                 mLbl->setText("<font color=red>Loooser!</font>");
 if(abs(Generator()-0)==2)
-                mLbl->setText("<font color=green>You Win</font>");
+                mLbl->setText("<font color=green>You Win!</font>");
 
 
 }
@@ -49,7 +49,7 @@ void MyWindow::ButPaperClicked()
     if((Generator()-1)==0)
                    mLbl->setText("Draw!");
     if((Generator()-1)==-1)
-                   mLbl->setText("<font color=green>You Win</font>");
+                   mLbl->setText("<font color=green>You Win!</font>");
    if((Generator()-1)==1)
                    mLbl->setText("<font color=red>Loooser!</font>");
 }
